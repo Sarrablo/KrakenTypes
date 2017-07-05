@@ -1,7 +1,6 @@
 from collections import namedtuple
 
 class Time():
-
     def __init__(self, dictio):
         d_named = namedtuple("Time", dictio.keys())(*dictio.values())
         result = namedtuple("Result", d_named.result.keys())(*d_named.result.values())
