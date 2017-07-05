@@ -9,7 +9,7 @@ Time
 |- unix_time (int)
 ```
 
-Usage:
+Usage: </br>
 ``` krakentypes.Time(krakenex.query_public('Time'))```
 
 
