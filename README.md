@@ -3,6 +3,8 @@
 On construction </br>
 
 # Class alredy implemented
+
+### Time
 ```
 Time
 |- date_time (string)
@@ -11,8 +13,10 @@ Time
 
 Usage: </br>
 ``` krakentypes.Time(krakenex.query_public('Time'))```
+
 </br>
 
+### Assets
 ```
 Assets
 |- AssetName
